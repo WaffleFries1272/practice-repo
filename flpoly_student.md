@@ -1,27 +1,27 @@
-## First Name Last Name
+## Jomaris Marin
 
-### Term Year 
+### FA 2024
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- STA3036
 
-- Course 2
+- ACG2020
 
-- Course 3
+- MAN3504
 
-- Course 4
+- COP 2073
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Digital Art
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Stickers
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/08/29
